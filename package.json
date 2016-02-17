@@ -1,8 +1,8 @@
 {
   "name": "fnjson",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "stringify objects containing functions",
-  "main": "fnjson.js",
+  "main": "source/fnjson.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/serapath/fnjson.git"
   },
+  "directories": {
+  "lib": "./source/node_modules/_parse.js"
+  },
+  "files" : [ "source/node_modules/","source/finjson.js" ],
   "keywords": [
     "json",
     "stringify",
