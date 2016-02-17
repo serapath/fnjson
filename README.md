@@ -14,8 +14,8 @@ console.log(JSON.parse(stringify({
 
 //// or to e.g. minimize browserify bundle size
 
-var parse = require('fnjson/lib/parse')
-var clone = require('fnjson/lib/clone')
-var stringify = require('fnjson/lib/stringify')
+var parse = require('fnjson/source/node_modules/_parse')
+var clone = require('fnjson/source/node_modules/_clone')
+var stringify = require('fnjson/source/node_modules/_stringify')
 
 ```
