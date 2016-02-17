@@ -1,0 +1,27 @@
+{
+  "name": "fnjson",
+  "version": "1.0.0",
+  "description": "stringify objects containing functions",
+  "main": "fnjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/fnjson.git"
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "parse",
+    "clone",
+    "objects",
+    "function"
+  ],
+  "author": "serapath <dev@serapath.de> (http://www.github.com/serapath)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/fnjson/issues"
+  },
+  "homepage": "https://github.com/serapath/fnjson#readme"
+}
